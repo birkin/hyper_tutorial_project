@@ -2,7 +2,7 @@
 
 - progress...
     - √ Setup
-    - Handler API
+    - √ Handler API
     - Routing
     - Putting it all together
     - Conclusions
