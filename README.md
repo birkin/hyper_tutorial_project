@@ -4,15 +4,14 @@ Notes
 
 - tutorial: <https://blog.logrocket.com/a-minimal-web-service-in-rust-using-hyper/>
     - code at: <https://github.com/zupzup/rust-minimal-web-service-hyper>
+    - progress...
+        - √ Setup
+        - √ Handler API
+        - interrupted, wasn't a fan of the style of the tutorial -- copied and pasted all the code from github to experiment, but only dabbled; moving on.
 
-- progress...
-    - √ Setup
-    - √ Handler API
-    - Routing
-    - Putting it all together
-    - Conclusions
-
-- at: Routing
+- tutorial: <https://hyper.rs/guides/>
+    - progress...
+        - at <https://hyper.rs/guides/server/hello-world/>
 
 ---
 
