@@ -3,6 +3,7 @@ Notes
 =====
 
 - tutorial: <https://blog.logrocket.com/a-minimal-web-service-in-rust-using-hyper/>
+    - code at: <https://github.com/zupzup/rust-minimal-web-service-hyper>
 
 - progress...
     - √ Setup
