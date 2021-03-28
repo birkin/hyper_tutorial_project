@@ -33,6 +33,7 @@ pub async fn send_handler(mut ctx: Context) -> Response {
 }
 
 pub async fn param_handler(ctx: Context) -> String {
+    println!("starting fn param_handler()");  // don't see this printing out anywhere
     let param = match ctx.params.find("some_param") {
         Some(v) => v,
         None => "empty",
